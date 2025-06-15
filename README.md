@@ -1,2 +1,2 @@
-# belltower
+# Belltower
 Belltower Coffee data analysis
